@@ -3,6 +3,7 @@ import Vendas from "../model/compras.js";
 
 const compraLivraria = (app, bd) => {
     const compra = new Vendas(bd);
+    
     app.get("/compra", async (req, res) => {
         try {
             const resposta = await compra.pegarTodasCompras();

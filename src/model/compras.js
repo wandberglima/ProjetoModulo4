@@ -51,6 +51,7 @@ class Vendas {
             };
         }
     };
+
     atualizarCompra = async (id, compra) => {
         try {
             await this._verificarCompra(id);
@@ -60,7 +61,6 @@ class Vendas {
                 compra.preco,
                 compra.quantidade
             );
-
             return await this.dao.atualizarCompra(id, compraAtualizada);
         } catch (error) {
             return {
@@ -73,7 +73,6 @@ class Vendas {
     _verificarCompra = async (id) => {
         try {
             const resposta = await this.dao.filtrarCompra(id);
-
             if (resposta.compra.length === 0) {
                 throw new Error(`Compra de id ${id} não existe`);
             }

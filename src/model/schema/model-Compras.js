@@ -6,7 +6,6 @@ class Compras {
         this.preco = preco
         this.quantidade = quantidade
     }
-
 }
 
 export default Compras
