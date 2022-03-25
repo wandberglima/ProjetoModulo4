@@ -222,9 +222,7 @@ npm start
 ## Sobre as branches
 Com o objetivo de desenvolver novas correções e inovações nesse projeto, o histórico da evolução do projeto e fácil acesso, será através de atualizações feitas em cada branch criada neste repositório.
 
-* **Execução de Testes**
-## :construction: Rodando teste ainda em desenvolvimento
-Para rodar os teste, utilizando o framework `Jest` e o [`Supertest`](https://jestjs.io/pt-BR/docs/testing-frameworks#expressjs) basta rodar o comando abaixo:
+## :construction: Os testes automaticos ainda estão em desenvolvimento, mas para rodar-los futuramente, precisara utilizar o framework `Jest` e o [`Supertest`](https://jestjs.io/pt-BR/docs/testing-frameworks#expressjs) basta rodar o comando abaixo:
 ```
 npm test
 ```
