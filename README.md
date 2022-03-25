@@ -12,10 +12,14 @@ Esse projeto tem como objetivo criar uma API RESTful de uma Livraria, onde será
 * Node.js  v.16.14.0
 * NPM v.8.3.1
 
-## Pacotes utilizados
+## Pacotes utilizados no projeto de Modulo
 * [Express](https://www.npmjs.com/package/express) v.4.17.3
 * [Nodemon](https://www.npmjs.com/package/nodemon) v.2.0.15
 * [SQLite](https://www.npmjs.com/package/sqlite3)  v.5.0.2
+
+## Pacotes Que serão utilizados nas proximas branchs
+* [jest](https://jestjs.io/docs/getting-started)
+* [SuperTest](https://www.npmjs.com/package/supertest)
 
 ## Instalação da Aplicação
 
