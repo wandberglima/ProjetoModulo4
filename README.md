@@ -1,4 +1,4 @@
-# :construction: WIP - Projeto de módulo 4 - Resilia
+# :construction: API - Projeto de módulo 4 - Resilia
 
 Projeto de Módulo 4 do curso de Web Dev Full Stack da [Resilia Educação](https://www.resilia.com.br/).
 
