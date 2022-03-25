@@ -140,7 +140,8 @@ npm start
     
     Schema da resposta
         
-        Não é necessario acrescentar o id, pois o mesmo é acrescentado automaticamente.
+        Não é necessario acrescentar o id,
+        pois o mesmo é acrescentado automaticamente.
     ```
     {
         "nome": "wandberg de lima faria",
@@ -180,7 +181,8 @@ npm start
     
     Schema da resposta para "/compra/id/3"
         
-        É necessario acrescentar o id na requisição, para dar referencia em qual cadastro será editado.
+        É necessario acrescentar o id na requisição, 
+        para dar referencia em qual cadastro será editado.
     ```
     {
 			"nome": "Wandberg de Lima Faria",
@@ -204,7 +206,8 @@ npm start
 
     Schema da resposta para "/compra/id/4"
     
-        É necessario acrescentar o id na requisição, para dar referencia em qual cadastro será deletado.
+        É necessario acrescentar o id na requisição,
+        para dar referencia em qual cadastro será deletado.
     ```
     {
         "compra": "Compra de id 4 deletado.",
