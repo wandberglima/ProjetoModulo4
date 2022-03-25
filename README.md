@@ -20,6 +20,7 @@ Esse projeto tem como objetivo criar uma API RESTful de uma Livraria, onde será
 ## Pacotes Que serão utilizados nas proximas branchs
 * [jest](https://jestjs.io/docs/getting-started)
 * [SuperTest](https://www.npmjs.com/package/supertest)
+* [MySQL](https://www.npmjs.com/package/mysql#install)
 
 ## Instalação da Aplicação
 
