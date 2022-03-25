@@ -65,8 +65,9 @@ npm start
     }
     ```
 * **Exemplo de busca geral**
-    ```
+    
     Schema da resposta
+    ```
     {
         "compra": [
             {
@@ -135,7 +136,7 @@ npm start
     }
     ```
 
-    * **Exemplo de inserção**
+* **Exemplo de inserção**
     
     Schema da resposta
         
